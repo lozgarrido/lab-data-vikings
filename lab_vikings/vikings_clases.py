@@ -4,7 +4,7 @@ import random
 
 # Soldier (constructor, ataque y daño)
 class Soldier:
-    pass
+    pass 
 
 # Viking
 class Viking(Soldier):
